@@ -1,0 +1,20 @@
+# ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# arquivos baixados (pessoais)
+downloads/
+
+# cookies de login — dão acesso à sua conta, nunca publique
+cookies.txt
+*.cookies.txt
+
+# downloads incompletos
+*.part
+*.ytdl
+
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store
